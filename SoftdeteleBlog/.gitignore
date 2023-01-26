@@ -1,0 +1,11 @@
+# database
+db.sqlite3
+
+Blogs/_pycache__/
+Blogs/_pycache__
+SoftdeleteBlog/_pycache__/
+SoftdeleteBlog/_pycache__
+
+Blogs/migrations
+
+images/blogs
