@@ -18,3 +18,6 @@ The Banking project is a Django-based web application designed to simulate basic
 
 ## About
 This repository is a compilation of various Django projects created by Rajan Sahu. Each project demonstrates different functionalities and best practices in Django, making this a valuable resource for anyone looking to learn or improve their skills in Django development.
+
+## Contributing
+Contributions are welcome! If you have any improvements, bug fixes, or new features, feel free to open a pull request or create an issue.
