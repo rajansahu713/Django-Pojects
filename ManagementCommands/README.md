@@ -1,0 +1,2 @@
+# ManagementCommands
+ManagementCommands is a Django project that demonstrates how to create and use custom management commands. This project provides examples of various custom commands that can be used to perform specific tasks within a Django application.
